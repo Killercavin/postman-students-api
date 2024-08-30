@@ -35,7 +35,7 @@ This API provides a comprehensive interface for managing events and speakers ass
 1. Clone the repository:
 
 ```
-git clone https://github.com/C-o-m-o-n/postman-students-api
+git clone https://github.com/Killercavin/postman-students-api
 ```
 
 2. Navigate to the project directory:
@@ -80,7 +80,7 @@ python manage.py runserver
 
 ### Usage
 
-1. Access the API documentation using a tool like Swagger or your preferred API client. The documentation endpoint is typically located at `http://127.0.0.1:8000/api-docs/`.
+1. Access the API documentation using a tool like Swagger or your preferred API client. The documentation endpoint is typically located at `http://127.0.0.1:8000/api-docs/` or `http://localhost:8000/api-docs`.
 
 2. Refer to the API documentation for details on available endpoints, authentication methods, and request/response formats.
 
